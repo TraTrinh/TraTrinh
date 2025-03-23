@@ -27,7 +27,7 @@
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TraTrinh&show_icons=true&theme=tokyonight)  
 
-# Certificates:
+### Certificates:
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-green) SQL Advanced Certificate](https://www.hackerrank.com/certificates/381319befd84)
